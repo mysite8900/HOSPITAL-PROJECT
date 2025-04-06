@@ -1,2 +1,2 @@
-# HHOSPITAL-PROJECT
+# HOSPITAL-PROJECT
 Hospital management system
